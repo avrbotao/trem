@@ -1,10 +1,11 @@
 
 	Readme
 
-This is the `README' file for 
+This is the `README' file for trem
 
 	What is it ?
 
+trem (tree mirror) is a tool to show and equalize the differences between two file trees.
 
 	Tarball
 
