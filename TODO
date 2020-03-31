@@ -1,0 +1,33 @@
+
+#
+#	this is the TODO file 
+#
+#	it is more of a collection of ideas, plans, reminders,
+#	and even thoughts that may give a glimpse of what is yet to come,
+#	although not in an orderly manner...
+#
+
+########	reeng as per cmpt 
+
+---	must not cmp dirs
+
+---	flags to 'ls -lrtd' and 'diff'
+
+***	detect and reflect EMPTY DIRS on 'prune' (to rmdir) ...
+
+***	build file operations lib (libfops) : copy / compare / del / rename
+
+***	ditto for directory (libdops) : mkdir / rmdir / rename
+
+***	cache created dirs : avoid multiple 'mkdir -p samedir'
+
+flag (-?) on default 'weigh' .. cmp instead of cp 
+	- then (-?) touch -r ... newer > older
+
+improve cmd quoting & escaping
+
+if '.' subst `pwd`
+
+#
+# vi:nu ts=8
+#

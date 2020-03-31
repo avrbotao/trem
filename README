@@ -1,0 +1,71 @@
+
+	Readme
+
+This is the `README' file for 
+
+	What is it ?
+
+
+	Tarball
+
+it is distributed in a tar-gzipped archive, and to open it, simply :
+
+$ gzip -d 
+$ tar xf 
+
+	Source-code directory
+
+After the steps above, go to the source-code directory, 
+
+$ cd ...
+
+	Installation
+
+Building could hardly be simpler; just unpack it, and in the source directory :
+
+$ ./configure
+$ make
+$ make install
+
+- and you're done, gnu-style.
+
+	Validation
+
+Optionally, you can
+
+$ make test
+
+right after `make' (or at any later time),
+just to validate some key features and functions.
+
+	Concepts
+
+
+	Reports
+
+
+	Development
+
+this is an ongoing project,
+so the 'TODO' file has quite a few tasks, plans, ideas
+still to be implemented in due time.
+
+	Warnings
+
+
+	Feedback
+
+Bug reports should be directed to the `support' facility at SourceForge;
+However, any comment, improvement/enhencement suggestions, problem report,
+or general feedback can be sent by email and is very welcome.
+
+In the case of bug/problem report, please include specific details about
+the operating system, compiler, processor architecture, and version number.
+
+	Notes
+
+(1) Using ANY software with `root' privileges requires appropriate knowledge.
+
+
+____________________________________________________________
+Alexandre Botao.

@@ -1,0 +1,11 @@
+const char * trem_program_string = "trem" ;
+const char * trem_version_string = "1.0.96" ;
+const char * trem_release_string = "2019-11-19" ;
+const char * trem_relogio_string = "16:42:49" ;
+const char * trem_summary_string = "tree mimic" ;
+const char * trem_taglist_string = "tree,comparison,equalize,mimic,replicate" ;
+const char * trem_license_string = "GPLv3" ;
+const char * trem_creator_string = "alexandre botao" ;
+const char * trem_contact_string = "alexandre at botao dot org" ;
+const char * trem_builder_string = "92031811@ATL21W05357" ;
+const char * trem_compile_string = "gcc version 7.4.0 (GCC)" ;
